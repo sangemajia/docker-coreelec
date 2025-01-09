@@ -1,3 +1,4 @@
+尝试把coreelec21中的docker升级为64位最新版，当前docker 27.4.1
 # docker-coreelec
 Docker 22.06 for CoreELEC distro
 
